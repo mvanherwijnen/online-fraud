@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "9nhae6b7",
+    "projectId": "qh0m61ed",
     "dataset": "production"
   },
   "project": {
-    "name": "Gatsby Demo",
+    "name": "Online fraud",
     "basePath": "/"
   },
   "plugins": [
